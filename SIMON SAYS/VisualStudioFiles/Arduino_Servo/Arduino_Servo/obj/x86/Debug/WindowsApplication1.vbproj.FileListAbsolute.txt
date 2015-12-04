@@ -1,0 +1,11 @@
+C:\Users\Rui\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Arduino Servo.exe
+C:\Users\Rui\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Arduino Servo.pdb
+C:\Users\Rui\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Arduino Servo.xml
+C:\Users\Rui\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rui\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Rui\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Rui\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rui\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rui\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Arduino Servo.exe
+C:\Users\Rui\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Arduino Servo.xml
+C:\Users\Rui\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Arduino Servo.pdb

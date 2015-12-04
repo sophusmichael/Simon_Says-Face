@@ -1,0 +1,194 @@
+C:\Users\Rui\Desktop\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.exe
+C:\Users\Rui\Desktop\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.pdb
+C:\Users\Rui\Desktop\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.xml
+C:\Users\Rui\Desktop\Arduino_Servo\Arduino_Servo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rui\Desktop\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Form1.resources
+C:\Users\Rui\Desktop\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Resources.resources
+C:\Users\Rui\Desktop\Arduino_Servo\Arduino_Servo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rui\Desktop\Arduino_Servo\Arduino_Servo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rui\Desktop\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.exe
+C:\Users\Rui\Desktop\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.xml
+C:\Users\Rui\Desktop\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.pdb
+C:\Users\Rui\Desktop\Youtube and Website\Arduino - Servo with visual basic\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.exe
+C:\Users\Rui\Desktop\Youtube and Website\Arduino - Servo with visual basic\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.xml
+C:\Users\Rui\Desktop\Youtube and Website\Arduino - Servo with visual basic\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.pdb
+C:\Users\Rui\Desktop\Youtube and Website\Arduino - Servo with visual basic\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.exe
+C:\Users\Rui\Desktop\Youtube and Website\Arduino - Servo with visual basic\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.pdb
+C:\Users\Rui\Desktop\Youtube and Website\Arduino - Servo with visual basic\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.xml
+C:\Users\Rui\Desktop\Youtube and Website\Arduino - Servo with visual basic\Arduino_Servo\Arduino_Servo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rui\Desktop\Youtube and Website\Arduino - Servo with visual basic\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Form1.resources
+C:\Users\Rui\Desktop\Youtube and Website\Arduino - Servo with visual basic\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Resources.resources
+C:\Users\Rui\Desktop\Youtube and Website\Arduino - Servo with visual basic\Arduino_Servo\Arduino_Servo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rui\Desktop\Youtube and Website\Arduino - Servo with visual basic\Arduino_Servo\Arduino_Servo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\Arduino_servo\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.exe
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\Arduino_servo\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.xml
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\Arduino_servo\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.pdb
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\Arduino_servo\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.exe
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\Arduino_servo\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.pdb
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\Arduino_servo\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.xml
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\Arduino_servo\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Form1.resources
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\Arduino_servo\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Resources.resources
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\Arduino_servo\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.GenerateResource.Cache
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\Arduino_servo\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Interop.TextAloud_3.dll
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\Arduino_servo\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.ResolveComReference.cache
+F:\Fritz\Arduino_servo\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.ResolveComReference.cache
+F:\Fritz\Arduino_servo\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.exe
+F:\Fritz\Arduino_servo\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.xml
+F:\Fritz\Arduino_servo\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.pdb
+G:\Fritz\Arduino_servo\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Interop.TextAloud_3.dll
+G:\Fritz\Arduino_servo\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.ResolveComReference.cache
+G:\Fritz\Arduino_servo\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.exe
+G:\Fritz\Arduino_servo\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.xml
+G:\Fritz\Arduino_servo\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.pdb
+G:\Fritz\Arduino_servo\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.exe
+G:\Fritz\Arduino_servo\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.pdb
+G:\Fritz\Arduino_servo\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.xml
+G:\Fritz\Arduino_servo\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Form1.resources
+G:\Fritz\Arduino_servo\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Resources.resources
+G:\Fritz\Arduino_servo\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.GenerateResource.Cache
+C:\Users\Laura\Documents\Fritz\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Interop.TextAloud_3.dll
+C:\Users\Laura\Documents\Fritz\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.ResolveComReference.cache
+C:\Users\Laura\Documents\Fritz\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.exe
+C:\Users\Laura\Documents\Fritz\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.xml
+C:\Users\Laura\Documents\Fritz\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.pdb
+C:\Users\Laura\Documents\Fritz\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.exe
+C:\Users\Laura\Documents\Fritz\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.pdb
+C:\Users\Laura\Documents\Fritz\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.xml
+C:\Users\Laura\Documents\Fritz\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Form1.resources
+C:\Users\Laura\Documents\Fritz\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Resources.resources
+C:\Users\Laura\Documents\Fritz\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.GenerateResource.Cache
+F:\Fritz\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.ResolveComReference.cache
+F:\Fritz\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.exe
+F:\Fritz\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.xml
+F:\Fritz\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.pdb
+F:\Fritz\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.exe
+F:\Fritz\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.pdb
+F:\Fritz\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.xml
+F:\Fritz\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Form1.resources
+F:\Fritz\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Resources.resources
+F:\Fritz\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.GenerateResource.Cache
+F:\Fritz\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Elves.wav
+C:\Users\TIL\Documents\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.ResolveComReference.cache
+C:\Users\TIL\Documents\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.xml
+C:\Users\TIL\Documents\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Elves.wav
+C:\Users\TIL\Documents\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.exe
+C:\Users\TIL\Documents\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.pdb
+C:\Users\TIL\Documents\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.xml
+C:\Users\TIL\Documents\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Form1.resources
+C:\Users\TIL\Documents\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Resources.resources
+C:\Users\TIL\Documents\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.GenerateResource.Cache
+C:\Users\TIL\Documents\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.exe
+C:\Users\TIL\Documents\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.pdb
+C:\Users\Laura\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Interop.TextAloud_3.dll
+C:\Users\Laura\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.ResolveComReference.cache
+C:\Users\Laura\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.exe
+C:\Users\Laura\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.xml
+C:\Users\Laura\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.pdb
+C:\Users\Laura\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Elves.wav
+C:\Users\Laura\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.exe
+C:\Users\Laura\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.pdb
+C:\Users\Laura\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.xml
+C:\Users\Laura\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Form1.resources
+C:\Users\Laura\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Resources.resources
+C:\Users\Laura\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.GenerateResource.Cache
+C:\Users\David\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.ResolveComReference.cache
+C:\Users\David\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.exe
+C:\Users\David\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.pdb
+C:\Users\David\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Form1.resources
+C:\Users\David\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.GenerateResource.Cache
+C:\Users\David\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Elves.wav
+C:\Users\David\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Resources.resources
+C:\Users\David\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.xml
+C:\Users\David\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.exe
+C:\Users\David\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.pdb
+C:\Users\David\Documents\SSR\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.xml
+C:\Users\David\Desktop\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.ResolveComReference.cache
+C:\Users\David\Desktop\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.exe
+C:\Users\David\Desktop\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.xml
+C:\Users\David\Desktop\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.pdb
+C:\Users\David\Desktop\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Elves.wav
+C:\Users\David\Desktop\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.exe
+C:\Users\David\Desktop\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.pdb
+C:\Users\David\Desktop\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.xml
+C:\Users\David\Desktop\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Form1.resources
+C:\Users\David\Desktop\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Resources.resources
+C:\Users\David\Desktop\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.GenerateResource.Cache
+C:\Users\JC Snider\Desktop\Fritz Project\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.ResolveComReference.cache
+C:\Users\JC Snider\Desktop\Fritz Project\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.exe
+C:\Users\JC Snider\Desktop\Fritz Project\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.xml
+C:\Users\JC Snider\Desktop\Fritz Project\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.pdb
+C:\Users\JC Snider\Desktop\Fritz Project\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Elves.wav
+C:\Users\JC Snider\Desktop\Fritz Project\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\fritz.pfx
+C:\Users\JC Snider\Desktop\Fritz Project\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.exe
+C:\Users\JC Snider\Desktop\Fritz Project\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.pdb
+C:\Users\JC Snider\Desktop\Fritz Project\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.xml
+C:\Users\JC Snider\Desktop\Fritz Project\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Fleck.dll
+C:\Users\JC Snider\Desktop\Fritz Project\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbprojResolveAssemblyReference.cache
+C:\Users\JC Snider\Desktop\Fritz Project\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Form1.resources
+C:\Users\JC Snider\Desktop\Fritz Project\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Resources.resources
+C:\Users\JC Snider\Desktop\Fritz Project\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.GenerateResource.Cache
+C:\Users\TIL\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.ResolveComReference.cache
+C:\Users\TIL\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.exe
+C:\Users\TIL\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.xml
+C:\Users\TIL\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.pdb
+C:\Users\TIL\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Elves.wav
+C:\Users\TIL\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\fritz.pfx
+C:\Users\TIL\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Fleck.dll
+C:\Users\TIL\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbprojResolveAssemblyReference.cache
+C:\Users\TIL\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Form1.resources
+C:\Users\TIL\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Resources.resources
+C:\Users\TIL\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.GenerateResource.Cache
+C:\Users\TIL\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.exe
+C:\Users\TIL\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.pdb
+C:\Users\TIL\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.xml
+C:\Users\Laura\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Interop.TextAloud_3.dll
+C:\Users\Laura\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.ResolveComReference.cache
+C:\Users\Laura\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Elves.wav
+C:\Users\Laura\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\fritz.pfx
+C:\Users\Laura\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.exe
+C:\Users\Laura\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.pdb
+C:\Users\Laura\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.xml
+C:\Users\Laura\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Fleck.dll
+C:\Users\Laura\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbprojResolveAssemblyReference.cache
+C:\Users\Laura\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Form1.resources
+C:\Users\Laura\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Resources.resources
+C:\Users\Laura\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.GenerateResource.Cache
+C:\Users\Laura\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.exe
+C:\Users\Laura\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.xml
+C:\Users\Laura\Documents\GitHub\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.pdb
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Interop.TextAloud_3.dll
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.ResolveComReference.cache
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.exe
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.xml
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.pdb
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Elves.wav
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\fritz.pfx
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.exe
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.pdb
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.xml
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Fleck.dll
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbprojResolveAssemblyReference.cache
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Form1.resources
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Resources.resources
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SSR_PRT\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.GenerateResource.Cache
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SIMON SAYS\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Elves.wav
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SIMON SAYS\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Resources\haarcascade_frontalface_alt.xml
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SIMON SAYS\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Resources\haarcascade_frontalface_default.xml
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SIMON SAYS\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Accord.dll.config
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SIMON SAYS\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\fritz.pfx
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SIMON SAYS\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.exe
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SIMON SAYS\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.pdb
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SIMON SAYS\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.xml
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SIMON SAYS\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Emgu.CV.dll
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SIMON SAYS\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SIMON SAYS\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\Emgu.Util.dll
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SIMON SAYS\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbprojResolveAssemblyReference.cache
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SIMON SAYS\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Interop.TextAloud_3.dll
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SIMON SAYS\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.ResolveComReference.cache
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SIMON SAYS\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Form1.resources
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SIMON SAYS\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Resources.resources
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SIMON SAYS\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.vbproj.GenerateResource.Cache
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SIMON SAYS\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.exe
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SIMON SAYS\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.xml
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SIMON SAYS\VisualStudioFiles\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.pdb
+C:\Users\Laura\Desktop\Yale Research\ASD Fitness\SIMON SAYS\VisualStudioFiles\Arduino_Servo\Arduino_Servo\bin\Debug\ZedGraph.dll
