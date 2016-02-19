@@ -7,7 +7,7 @@
 Imports System.Runtime.InteropServices
 Imports System.Globalization
 Imports System.IO
-Imports System.IO.Ports
+'Imports System.IO.Ports
 Imports System.Security.Cryptography.X509Certificates
 Imports System.Speech.Synthesis
 Imports System.Text
@@ -29,7 +29,7 @@ End Module
 
 Public Class Form1
     Shared _continue As Boolean
-    Shared _serialPort As SerialPort
+    'Shared _serialPort As SerialPort
     WithEvents speaker As New SpeechSynthesizer()
     Public Event VisemeReached As EventHandler(Of VisemeReachedEventArgs)
     Public Event SpeakCompleted As EventHandler(Of SpeakCompletedEventArgs)
@@ -50,25 +50,25 @@ Public Class Form1
         Catch ex As Exception
         End Try
 
-        SerialPort1.Close()
+        'SerialPort1.Close()
 
-        SerialPort1.PortName = "COM7" 'define your port
-        SerialPort1.BaudRate = 9600
-        SerialPort1.DataBits = 8
-        SerialPort1.Parity = Parity.None
-        SerialPort1.StopBits = StopBits.One
-        SerialPort1.Handshake = Handshake.None
-        SerialPort1.Encoding = Encoding.Default
+        'SerialPort1.PortName = "COM7" 'define your port
+        'SerialPort1.BaudRate = 9600
+        'SerialPort1.DataBits = 8
+        'SerialPort1.Parity = Parity.None
+        'SerialPort1.StopBits = StopBits.One
+        'SerialPort1.Handshake = Handshake.None
+        'SerialPort1.Encoding = Encoding.Default
         Threading.Thread.Sleep(1000)
-        Try
-            SendCommand("2")
-        Catch ex As Exception
-            If (ex.ToString.Contains("does not exist")) Then
-                MsgBox(
-                    "Failed to connect to serial port. Please make sure L-E is plugged in and the arduino code has been uploaded.")
-                failedToConnect = True
-            End If
-        End Try
+        'Try
+        '    SendCommand("2")
+        'Catch ex As Exception
+        '    If (ex.ToString.Contains("does not exist")) Then
+        '        MsgBox(
+        '            "Failed to connect to serial port. Please make sure L-E is plugged in and the arduino code has been uploaded.")
+        '        failedToConnect = True
+        '    End If
+        'End Try
 
         'ClearAllObject()
         PictureBox1.BackColor = Color.Black
@@ -106,13 +106,13 @@ Public Class Form1
         '21:     p, b, m
         Try
             If (e2.Viseme = 1 Or e2.Viseme = 2 Or e2.Viseme = 9 Or e2.Viseme = 8) Then
-                SendCommand("4")
+                'SendCommand("4")
             ElseIf (e2.Viseme = 3 Or e2.Viseme = 6 Or e2.Viseme = 10) Then
-                SendCommand("5")
+                'SendCommand("5")
             ElseIf (e2.Viseme = 4 Or e2.Viseme = 5 Or e2.Viseme = 7 Or e2.Viseme = 20) Then
-                SendCommand("6")
+                'SendCommand("6")
             Else
-                SendCommand("7")
+                'SendCommand("7")
             End If
         Catch e As Exception
             Console.WriteLine("exception caught")
@@ -139,23 +139,23 @@ Public Class Form1
 #Region "Actions/Body Positions"
 
     Private Sub blink_Click(sender As Object, e As EventArgs) Handles Timer1.Tick, blink.Click
-        SendCommand("3")
+        'SendCommand("3")
     End Sub
 
     Private Sub HeadLeft_Click(sender As Object, e As EventArgs) Handles Timer2.Tick, HeadLeft.Click
-        SendCommand("A")
+        'SendCommand("A")
     End Sub
 
     Private Sub HeadRight_Click(sender As Object, e As EventArgs) Handles HeadRight.Click
-        SendCommand("B", True)
+        'SendCommand("B", True)
     End Sub
 
     Private Sub head_center_Click(sender As Object, e As EventArgs) Handles head_center.Click
-        SendCommand("F")
+        'SendCommand("F")
     End Sub
 
     Private Sub Wink_Click(sender As Object, e As EventArgs) Handles Wink.Click
-        SendCommand("E", True)
+        'SendCommand("E", True)
     End Sub
 
 #End Region
@@ -289,7 +289,7 @@ Public Class Form1
                 Exit Select
         End Select
         speaker.SpeakAsyncCancelAll()
-        SendCommand("AA")
+        'SendCommand("AA")
     End Sub
 
     Private Sub Pause_Click(sender As Object, e As EventArgs) Handles Pause.Click
@@ -386,16 +386,16 @@ Public Class Form1
 #End Region
 
 #Region "General Functions"
-    Private Sub SendCommand(cmd As String, Optional resetTimers As Boolean = False)
-        If failedToConnect Then Exit Sub
-        Try
-            SerialPort1.Open()
-            SerialPort1.Write(cmd)
-            SerialPort1.Close()
-        Catch ex As Exception
-            ' do nothing
-        End Try
-    End Sub
+    'Private Sub SendCommand(cmd As String, Optional resetTimers As Boolean = False)
+    '    If failedToConnect Then Exit Sub
+    '    Try
+    '        SerialPort1.Open()
+    '        SerialPort1.Write(cmd)
+    '        SerialPort1.Close()
+    '    Catch ex As Exception
+    '        ' do nothing
+    '    End Try
+    'End Sub
 
     Private Sub SpeakString(txt As String, Optional rate As Double = -2, Optional volume As Double = 100,
                             Optional resetTimers As Boolean = False)
